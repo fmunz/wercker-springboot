@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>Oracle Public Cloud Demo by Frank</title>
+<title>Oracle Public Cloud Demo by Frank M.</title>
 
 </head>
 <body>
